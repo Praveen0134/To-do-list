@@ -1,0 +1,30 @@
+.list
+{
+    border: 1px solid black;
+    width: 300px;
+    margin: 15px 650px;
+    background-color: rgba(120, 119, 119, 0.762);
+    color: white;
+}
+.a
+{
+    display: flex;
+    align-items: center;
+}
+input
+{
+    margin-left: 40px;
+}
+h1
+{
+    margin-left: 700px;
+    margin-top: 200px;
+}
+p:active
+{
+    text-decoration: line-through;
+}
+p
+{
+    padding-left: 10px;
+}
